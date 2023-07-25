@@ -19,7 +19,9 @@
     "@pinia-plugin-persistedstate/nuxt": "^1.1.1",
     "@pinia/nuxt": "^0.4.11",
     "@prisma/client": "^5.0.0",
+    "@stripe/stripe-js": "^1.54.1",
     "nuxt-icon": "^0.4.2",
-    "prisma": "^5.0.0"
+    "prisma": "^5.0.0",
+    "stripe": "^12.14.0"
   }
 }
